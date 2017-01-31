@@ -1,0 +1,78 @@
+
+body {
+    background-color: #D2D7F0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    color: #111C25;
+}
+
+
+.masthead-heading,
+.masthead-intro,
+.content-footer {
+    text-align: center;
+}
+
+.masthead {
+    padding: 6em 0;
+    background: url('https://static.dezeen.com/uploads/2016/01/North-Vat-house_Rodic-Davidson-Architects_Dungeness-beach-Kent-England_dezeen_1568_1.jpg') no-repeat;
+    border-top: 1em;
+}
+
+.masthead-intro {
+    margin-bottom:0.1em;
+    margin-top: -0;
+    font-family: 'Slabo 27px', serif;
+    font-size: 2em;
+    padding-top: -0.1em;
+}
+
+.masthead-heading {
+    margin-top:-0.2em;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
+
+.section {
+    max-width: 38em;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2em;
+}
+
+.section-heading,
+.section-body {
+    text-align: left;
+}
+
+.sub-heading {
+    text-align: left;
+    color: #566C8A;
+}
+
+.social > li {
+    display: inline-block;
+    font-size: 0.8em;
+    color: #896F56;
+    font-style: bold;
+    margin: 0.5em;
+}
+.content-footer > p {
+    color: white;
+    font-size: 1em;
+    text-shadow: 1px 1px 1px #000;
+    padding-top: 1em;
+    margin-bottom: -0.2em;
+}
+a:link {
+    color: #896F56;
+}
+
+a:visited {
+    color: #566C8A;
+}
